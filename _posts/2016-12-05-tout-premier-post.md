@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Hello World !"
 date: 2016-12-05
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+First post on this blog powered by Jekyll and github pages ! Built following the instructions on [jmcglone](http://jmcglone.com/guides/github-pages/).
+
