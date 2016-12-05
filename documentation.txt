@@ -1,1 +1,5 @@
 this website was done following http://jmcglone.com/guides/github-pages/
+pour builder le site avec jekyll :
+    mkdir _site
+    jekyll build
+    jekyll serve 
