@@ -3,3 +3,5 @@ pour builder le site avec jekyll :
     mkdir _site
     jekyll build
     jekyll serve 
+
+le theme est le theme readable de https://bootswatch.com/ 
