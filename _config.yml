@@ -1,2 +1,3 @@
 name: Thibault Toledano
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
