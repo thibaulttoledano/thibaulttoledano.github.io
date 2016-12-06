@@ -1,6 +1,6 @@
 this website was done following http://jmcglone.com/guides/github-pages/
 pour builder le site avec jekyll :
-    mkdir _site
+    mkdir _site  # le _site est dans le .gitignore ...
     jekyll build
     jekyll serve 
 
